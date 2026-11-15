@@ -1,0 +1,8 @@
+Méthode utilisée : 12 thread sur portion de lignes entières Temps exécution : 7.000000s
+Méthode utilisée : 12 thread sur portion de colonnes entières Temps exécution : 7.000000s
+Méthode utilisée : 16 thread sur portion de lignes entières Temps exécution : 7.000000s
+Méthode utilisée : 16 thread sur portion de lignes entières Temps exécution : 7.000000s
+Méthode utilisée : 16 thread sur portion de lignes entières Temps exécution : 7.000000s
+Méthode utilisée : 16 thread sur portion de lignes entières Temps exécution : 8.000000s
+2026-11-13 23:13:42 Méthode utilisée : 16 thread sur portion de lignes entières Temps exécution : 7.000000s
+2026-11-15 13:46:12 - 5000 * 5000 pixels - Méthode utilisée : 16 thread sur portion de lignes entières Temps exécution : 7.000000s

@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/*
+    Simplement voir si toutes les colonnes sont traitées.
+*/
 int main(int argc, char *argv[]) {
     if (argc != 3) {
         perror("Usage : ./repartitionCol nb_col nb_threads\n");
